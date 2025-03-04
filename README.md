@@ -1,5 +1,5 @@
 # Chat with MySQL Database
-This project is a simple chat application that allows you to interact with a MySQL database using natural language. It translates user questions into SQL queries and provides data-driven answers based on the database content.
+It is a simple chat application that allows us to interact with a MySQL database using natural language. It translates our questions into SQL queries and provides data-driven answers based on the database content.
 # Features
 •	Connect to any MySQL database.<br>
 •	Translate natural language queries into SQL.<br>
